@@ -2,7 +2,10 @@
 
 A full-stack assessment feature for counselors to quickly understand a student's profile, open tasks, unread messages, and urgency level. The project is structured as a small production-minded monorepo with a React/Vite frontend and an Express/TypeScript backend.
 
-![Test output](docs/test-output.svg)
+<img width="1365" height="728" alt="Screenshot 2026-06-04 173138" src="https://github.com/user-attachments/assets/952ded2d-a3d9-4b59-b8a6-646063c928dd" />
+<img width="1358" height="725" alt="Screenshot 2026-06-04 173156" src="https://github.com/user-attachments/assets/e4dd05d9-cd39-4230-a85a-f63890f019aa" />
+<img width="1363" height="725" alt="Screenshot 2026-06-04 173205" src="https://github.com/user-attachments/assets/3ed71347-7605-4f0f-8a29-6bf9147f19e4" />
+
 
 ## Table Of Contents
 
@@ -629,7 +632,9 @@ frontend/src/tests/App.test.tsx	1 integration test — stubs fetch, renders the 
 
 The repository includes a screenshot-style test output artifact:
 
-![Test output](docs/test-output.svg)
+<img width="1076" height="628" alt="Screenshot 2026-06-04 171308" src="https://github.com/user-attachments/assets/a0a81d02-4ba0-4ab1-aa1d-8a5a44dc88c2" />
+<img width="918" height="381" alt="Screenshot 2026-06-04 171347" src="https://github.com/user-attachments/assets/d5630620-10bc-47c5-a932-7060b48d0d90" />
+
 
 ### Backend Test Cases
 
